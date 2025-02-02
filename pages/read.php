@@ -1,4 +1,4 @@
-<?php include 'config/database.php'; ?>
+<!-- <?php include 'config/database.php'; ?>
 <?php include 'includes/header.php'; ?>
 
 <h2>User List</h2>
@@ -34,4 +34,4 @@
     </tbody>
 </table>
 
-<?php include 'includes/footer.php'; ?>
+<?php include 'includes/footer.php'; ?> -->
